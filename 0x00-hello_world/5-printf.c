@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- * main function is the entry point
+ * main - Entry point
  *
- * return: 0 - exit point
+ * return - always 0 exit point
  */
+
 int main(void)
 {
-	printf("with proper grammar,but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
