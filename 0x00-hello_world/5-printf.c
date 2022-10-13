@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
- * main function - entry point
- * return 0 - exit point
+ * main function is the entry point
+ *
+ * return: 0 - exit point
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar,but the outcome is a piece of art,");
 	return (0);
 }
