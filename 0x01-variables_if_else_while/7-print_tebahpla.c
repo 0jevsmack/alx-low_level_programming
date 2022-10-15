@@ -10,8 +10,8 @@ int main(void)
 {
 	int alpha;
 
-	for (alpha = z; alpha <= a; alpha--)
-		putchar(alpha);
+	for (alpha = 'z'; alpha <= 'a'; alpha--)
+		putchar('alpha');
 
 	putchar('\n');
 
