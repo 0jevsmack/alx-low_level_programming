@@ -11,7 +11,7 @@ int main(void)
 	int alpha;
 
 	for (alpha = 'z'; alpha <= 'a'; alpha--)
-		putchar('alpha');
+		putchar(alpha);
 
 	putchar('\n');
 
